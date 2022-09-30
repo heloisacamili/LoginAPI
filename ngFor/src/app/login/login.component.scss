@@ -1,0 +1,15 @@
+.gradient-custom {
+    background-color: rgb(19, 228, 228);
+    
+    background: -webkit-linear-gradient(to right, aqua, rgb(7, 101, 114));
+    
+    background: linear-gradient(to right, aqua, rgb(7, 101, 114))
+}
+input {
+    border-radius: 1rem; 
+    height: 3rem; 
+    width: 20rem;
+}
+.texto {
+    color: whitesmoke;
+}
